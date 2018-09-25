@@ -1,0 +1,6 @@
+[package]
+name = "bucketizer"
+version = "0.1.0"
+authors = ["iloureiro <ignacio.loureiro@endava.com>"]
+
+[dependencies]
